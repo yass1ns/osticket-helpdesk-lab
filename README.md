@@ -40,3 +40,7 @@ Submitted a software install request as an end user, classified and assigned it 
 - MySQL database setup and user management
 - IT service management (ITIL-aligned SLA tiers and ticket workflows)
 - osTicket administration
+
+
+## See Screenshots For Details
+
